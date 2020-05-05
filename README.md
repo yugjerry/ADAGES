@@ -1,1 +1,3 @@
 # ADAGES
+
+In this era of big data, not only the large amount of data keeps motivating distributed computing, but concerns on data privacy also put forward the emphasis on distributed learning. To conduct feature selection and to control false discovery rate in a distributed pattern with multi-machines or multi-institutions, an efficient aggregation method is necessary. In this paper, we propose an adaptive aggregation method called ADAGES which can be flexibly applied to any feature selection method. We will show that our method can control the overall FDR at any pre-defined level with a theoretical foundation while maintaining power as good as the Union aggregation rule in practice.
