@@ -1,6 +1,6 @@
 library(knockoff)
 
-repN = 1
+repN = 100
 
 #model_parameters
 n = 1000
