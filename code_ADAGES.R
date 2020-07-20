@@ -1,3 +1,7 @@
+## ADAGES: adaptive aggregation with stability for distributed feature selection
+## FODS 2020
+## Author: Yu Gui
+
 library(knockoff)
 
 repN = 1
