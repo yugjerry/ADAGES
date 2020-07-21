@@ -161,6 +161,7 @@ legend("topright",legend=c("Subset size","20*log(Ratio)"),pch=c(15,15),
 
 ##study different k: number of machines
 repN = 100
+set.seed(1234)
 
 kset = c(1,2,5,8,10,20)
 lk = length(kset)
